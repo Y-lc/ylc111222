@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0049)http://www.gqt.org.cn/search/gqtsubjectsearch.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>中国共青团</title>
+<!--<base target="_blank">--><base href="." target="_blank">
+<style type="text/css">
+<!--
+.tdoutline {
+	height: 18px;
+	width: 120px;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.tdsearch {
+	height: 20px;
+	width: 50px;
+}
+-->
+</style>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="200" height="18" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr> 
+      <script>
+function replacestr(_str){
+var len=_str.length;
+var str="";
+var count=0;
+for(var i=0;i<len;i++)
+	{
+ var tmp=_str.substring(i,i+1);
+ if (tmp ==" "||tmp=="　"||tmp=="*") count =count +1;
+ if (tmp !=" "&&tmp!="　"&&tmp!="*") break;
+}
+
+//alert(_str);
+if (count >0) 
+ _str = _str.substring(count);
+//alert(_str);
+
+count = 0;
+for(var i=0;i<len;i++)
+{
+ var tmp=_str.substring(i,i+1);
+	//alert(tmp);
+if (tmp==" "||tmp=="　"||tmp=="*") {count=count+1;}
+	else count=0;
+if (count <=1)  
+  if (tmp==" "||tmp=="　"||tmp=="*")
+    str=str+" AND ";
+   else
+     str=str+tmp;
+
+
+
+}
+//alert(str.substring(str.length-5));
+if(str.substring(str.length-5)==" AND ") str=str.substring(0,str.length-5);
+ //alert("result"+str);
+return str;
+}
+
+
+function onFocuscanle(theform)
+{
+	theform.value='';
+}
+function transearchword()
+{
+    
+    var str = formtop.searchword.value;
+        
+	if(str=="关键词检索"|str=="")
+	{
+    		alert("请输入检索关键词!");
+		return false;
+	}
+	str = replacestr(str); 
+        formtop.searchword.value =str;
+    
+    
+}
+</script>
+      <form name="formtop" onsubmit="return transearchword()" action="http://www.gqt.org.cn/was40/search?channelid=17472" target="_blank"></form>
+        <input type="hidden" value="17472" name="channelid">
+        <input type="hidden" value="-DOCRELTIME" name="sortfield">
+        <td width="140" height="22" align="middle"> 
+          <div align="center">
+            <input class="tdoutline" onfocus="this.value=&#39;&#39;" name="searchword">
+          </div>
+          <div align="center"> </div></td>
+		  
+        <td width="60">
+<input type="submit" value="检索" height="18" width="19" name="Submit" class="tdsearch">
+        </td>
+      
+    </tr>
+  </tbody>
+</table>
+
+</body></html>

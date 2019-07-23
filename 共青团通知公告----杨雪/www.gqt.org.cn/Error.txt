@@ -1,0 +1,4 @@
+﻿文件下载网址  =>  文件保存路径
+http://pinglun.bbs.youth.cn/static/image/common/pn.png  =>  C:\Users\Administrator\Desktop\www.gqt.org.cn\images\pn.png
+http://news.youth.cn/images/sub_button_03.jpg  =>  C:\Users\Administrator\Desktop\www.gqt.org.cn\images\sub_button_03.jpg
+http://www.gqt.org.cn/site209/2017526kp_0314_36.gif  =>  C:\Users\Administrator\Desktop\www.gqt.org.cn\images\2017526kp_0314_36.gif

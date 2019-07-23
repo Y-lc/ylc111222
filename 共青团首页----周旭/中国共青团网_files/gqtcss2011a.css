@@ -1,0 +1,195 @@
+.black12 {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.black12a {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	line-height: 18px;
+}
+.black14 {
+	font-size: 14px;
+	color: #000000;
+	text-decoration: none;
+}
+.blue12 {
+	font-size: 12px;
+	color: #023BC8;
+	text-decoration: none;
+}
+.tdblack {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	border: 1px solid #000000;
+}
+.red14 {
+	font-size: 14px;
+	color: #C60206;
+	text-decoration: none;
+}
+.blue14 {
+	font-size: 14px;
+	color: #0743A5;
+	text-decoration: none;
+}
+.red12a {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+.white14 {
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.tdgrey {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	border-top: 1px none #DDDDDD;
+	border-right: 1px solid #DDDDDD;
+	border-bottom: 1px solid #DDDDDD;
+	border-left: 1px solid #DDDDDD;
+}
+.tdgrey1 {
+	font-size: 12px;
+	color: #AA0000;
+	text-decoration: none;
+	border-top: 1px solid #DDDDDD;
+	border-right: 1px solid #DDDDDD;
+	border-bottom: 1px solid #DDDDDD;
+	border-left: 1px solid #DDDDDD;
+	line-height: 25px;
+}
+.red12line {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: underline;
+}
+a:hover {
+	color: #FF9933;
+}
+.red14a {
+	font-size: 14px;
+	color: #6A0316;
+	text-decoration: none;
+}
+.grey12 {
+	font-size: 12px;
+	color: #323232;
+	text-decoration: none;
+}
+.tdgrey12a {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	border: 1px solid #999999;
+}
+.talkoff {
+	background-image:url(http://www.gqt.org.cn/images/gqtindex_website04.gif);
+}
+.talkon {
+	background-image:url(http://www.gqt.org.cn/images/gqtindex_081128d.gif);
+}
+.ww1 {width:328px;}
+.ww1 td {
+	border-right:1px solid #B5B5B5;
+	border-bottom:1px solid #B5B5B5;
+	height:24px;
+	text-align:center;
+	width:86px;
+	font-size:14px;
+	cursor:hand;
+	background:url(http://www.gqt.org.cn//images/gqtindex1_tab.gif);
+	text-decoration: none;
+}
+.ww1 td.s {
+	border-bottom:1px solid #FFFFFF;
+	color:#FF0000;
+	background: url(http://www.gqt.org.cn/images/gqtindex1_tab2.gif);
+	text-decoration: none;
+}
+.ww2 {width:328px;font-size:14px;text-decoration:none;}
+.ww2 a:hover {color:#FF9933;text-decoration:underline;}
+.dis {display:block}
+.undis {display:none}
+.td06 {
+	font-size: 14px;
+	line-height: 24px;
+	color: #a50000;
+	TEXT-DECORATION: none;
+}
+.td106 {
+	font-size: 14px;
+	line-height: 24px;
+	color: #E60404;
+	TEXT-DECORATION: none;
+}
+.tdc06 {
+	font-size: 12px;
+	line-height: 24px;
+	color: #a50000;
+	TEXT-DECORATION: none;
+}
+.tdb1 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #a50000;
+	text-decoration: none;
+}
+.grey14 {
+	font-family: "ËÎÌו";
+	font-size: 14px;
+	color: #434C4B;
+	text-decoration: none;
+}
+.grey12line {
+	font-size: 12px;
+	color: #545454;
+	text-decoration: underline;
+}
+#ftjd {
+	BORDER-RIGHT: #7a7a7a 1px solid; BORDER-TOP: #7a7a7a 1px solid; FLOAT: left; BORDER-LEFT: #7a7a7a 1px solid; WIDTH: 285px; BORDER-BOTTOM: #7a7a7a 1px solid; padding-top:5px; padding-bottom:5px; background-color:#DBDBD9
+}
+#ftjd .load {
+	WIDTH: 100%; PADDING-TOP: 100px; HEIGHT: 100%; TEXT-ALIGN: center
+}
+#ftjd .mc {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 250px; text-align:center; background-color:#DBDBD9
+}
+#ftjd .mc .txt1 {
+	Z-INDEX: 210; LEFT: 0px; OVERFLOW: hidden; WIDTH: 280px; BOTTOM: 10px; PADDING-TOP: 5px; padding-left:5px; WHITE-SPACE: nowrap; POSITION: absolute; HEIGHT: 20px; TEXT-ALIGN: center; display:none;
+}
+#ftjd .mc .txt1 A {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+#ftjd .mc .mask {
+	Z-INDEX: 209; BACKGROUND: #000000; FILTER: alpha(opacity=40); opacity: .4; -moz-opacity: .4
+}
+#ftjd .mc .content {
+	DISPLAY: block; LEFT: 0px; WIDTH: 100%; POSITION: absolute; TOP: 0px
+}
+#ftjd .btn {
+	DISPLAY: block; BACKGROUND: #DBDBD9; MARGIN: 0px; OVERFLOW: hidden; WIDTH: 100%; PADDING-TOP: 3px; WHITE-SPACE: nowrap; HEIGHT: 62px
+}
+#ftjd .btn A {
+	DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 3px! important; WIDTH: 65px; CURSOR: pointer; PADDING-TOP: 1px; HEIGHT: 60px; TEXT-ALIGN: center
+}
+#ftjd .btn IMG {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; WIDTH: 65px; BORDER-BOTTOM: #ffffff 1px solid; HEIGHT: 60px
+}
+#ftjd .btn A IMG {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; WIDTH: 65px; BORDER-BOTTOM: #ffffff 1px solid; HEIGHT: 60px
+}
+#ftjd .mc IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.white12 {
+	font-family: "ËÎÌו";
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}

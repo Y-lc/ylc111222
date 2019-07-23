@@ -1,0 +1,4 @@
+1. 起类名或者id名要有意义, 不要凭心情起
+2. 写HTML, CSS, JS要有注释
+3. 要以自己的姓名的首字母+下划线+名称来命名. 例如: <div class="zx_banner"></div>
+3. GitHub: git@github.com:506211316/team.git

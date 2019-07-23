@@ -1,0 +1,4 @@
+﻿文件下载网址  =>  文件保存路径
+http://www.gqt.org.cn/bulletin/bgt_qtyx/images/2006index_down4.gif  =>  C:\Users\Administrator\Desktop\www.gqt.org.cn\picture\2006index_down4.gif
+http://www.gqt.org.cn/bulletin/bgt_qtyx/images/ccylsubject_bg_left_hui_heng.gif  =>  C:\Users\Administrator\Desktop\www.gqt.org.cn\picture\ccylsubject_bg_left_hui_heng.gif
+http://www.gqt.org.cn/bulletin/bgt_qtyx/images/ccylsubject_pic_02.gif  =>  C:\Users\Administrator\Desktop\www.gqt.org.cn\picture\ccylsubject_pic_02.gif
